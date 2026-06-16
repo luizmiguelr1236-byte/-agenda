@@ -1,0 +1,14 @@
+C:\Users\LabInfo\Desktop\Agenda_DS-master\Agenda\obj\Debug\Agenda.csproj.AssemblyReference.cache
+C:\Users\LabInfo\Desktop\-agenda-main\Agenda_DS-master\Agenda\obj\Debug\Agenda.csproj.AssemblyReference.cache
+C:\Users\LabInfo\Desktop\-agenda-main\Agenda_DS-master\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\LabInfo\Desktop\-agenda-main\Agenda_DS-master\Agenda\bin\Debug\Agenda.exe
+C:\Users\LabInfo\Desktop\-agenda-main\Agenda_DS-master\Agenda\bin\Debug\Agenda.pdb
+C:\Users\LabInfo\Desktop\-agenda-main\Agenda_DS-master\Agenda\obj\Debug\Agenda.Formularios.cadastro.resources
+C:\Users\LabInfo\Desktop\-agenda-main\Agenda_DS-master\Agenda\obj\Debug\Agenda.Formularios.consulta.resources
+C:\Users\LabInfo\Desktop\-agenda-main\Agenda_DS-master\Agenda\obj\Debug\Agenda.MDI_Menu.resources
+C:\Users\LabInfo\Desktop\-agenda-main\Agenda_DS-master\Agenda\obj\Debug\Agenda.Properties.Resources.resources
+C:\Users\LabInfo\Desktop\-agenda-main\Agenda_DS-master\Agenda\obj\Debug\Agenda.csproj.GenerateResource.cache
+C:\Users\LabInfo\Desktop\-agenda-main\Agenda_DS-master\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Desktop\-agenda-main\Agenda_DS-master\Agenda\obj\Debug\Agenda.exe
+C:\Users\LabInfo\Desktop\-agenda-main\Agenda_DS-master\Agenda\obj\Debug\Agenda.pdb
+C:\Users\LabInfo\Desktop\-agenda-main\Agenda_DS-master\Agenda\obj\Debug\Agenda.exe.config
